@@ -1,3 +1,10 @@
+Building and Running
+====================
+
+- [Install Go tools](https://golang.org/doc/install)
+- Install gcc 
+- `go run main.go`
+
 References
 ==========
 
